@@ -1,91 +1,93 @@
 # COMP3331-COMP9331-Computer-Networks-and-Applications-UNSW-Sydney
-COMP3331 COMP9331 Computer Networks and Applications 辅导, Computer Network, Computer Architecture, Network Algorithms, Java, Python, QQ: 496352127, WeChat: cestbon_688, Email: accoder_overseas@163.com
+COMP3331 COMP9331 Computer Networks and Applications 辅导, Computer Network, Computer Architecture, Network Algorithms, Java, Python
 
-****
+---
 
-## 国家/地区(陆续更新, 包括但不限于如下)
+## 留学生计算机cs/数学math辅导
 
-### 亚洲
+985+C9 CS科班本硕毕业, 在校专业成绩Top1%, 目前外企sde
 
-西交利物浦大学 (Xi-an Jiaotong Liverpool University)
+11年CS学习+项目开发经验, 指导上千成功案例, 顺利学会专业基础知识, 提升代码实现与动手实践能力
 
-香港大学 (University of Hong Kong)
+一对一+原创 量身定制方案, 本人沟通对接需求, 避免找中介/机构上当受骗
 
-香港城市大学 (City University of Hong Kong)
+可指导Quiz/Assignment/Assessment/Project/Report/Midterm/Final/Resit
 
-香港专业教育学院 (Hong Kong Institute of Vocational Education)
+专业课程预习/重点知识体系梳理/课后练习/模拟测试/全程跟班, 持续跟进帮忙答疑解惑
 
-新加坡国立大学 (National University of Singapore)
+英国/苏格兰/爱尔兰/德国/澳洲/美国/加拿大/新西兰/马来西亚/韩国/日本/港澳台等地区都可以
 
-世纪大学 (SEGi University & Colleges)
+一起学习, 共同进步!
 
-马来西亚理科大学 (Universiti Sains Malaysia)
+---
 
-### 欧洲
+## 联系方式 (备注 GitHub, 中介勿扰)
+QQ: 496352127
 
-伦敦国王大学 (King's College London)
+WeChat: ac_coder_tutor
 
-伦敦大学学院 (University College London)
+E-Mail: accoder_overseas@163.com, accoderoverseas@gmail.com 
+    
+(both can contact me, I will login the contacts daily and reply to you immediately)
 
-曼彻斯特大学 (University of Manchester)
+---
 
-利物浦大学 (University of Liverpool)
+## CS Professional Tutoring
+Graduated from a 985+C9 cs major with a bachelor's and master's degree, ranking in the top 1% of the major during school, currently working at a foreign company's sde. 
 
-谢菲尔德大学 (University of Sheffield)
+With 11 years of experience in CS learning and project development, having guided over a thousand successful cases, I have smoothly mastered the basic professional knowledge and enhanced my code implementation and hands-on practical skills.
 
-莱斯特大学 (University of Leicester)
+1v1 + original and tailor-made solutions. I will communicate and coordinate your needs myself to avoid being deceived when looking for intermediaries or institutions.
 
-伯明翰大学 (University of Birmingham)
+Can guide the quizzes/the Assignment/Assessment/Project/Report/Midterm/Final/Resit for you. 
 
-利兹大学 (University of Leeds)
+Preview of professional courses/Review of key knowledge systems/After-class exercises/simulation tests/full-time class attendance, continuous follow-up to help answer questions and solve doubts. 
 
-牛津布鲁克斯大学 (Oxford Brooks University)
+Regions such as the United Kingdom, Scotland, Ireland, Germany, Australia, the United States, Canada, New Zealand, Malaysia, South Korea, Japan, Hong Kong, Macao and Taiwan are all acceptable. 
 
-约克大学 (University of York)
+Study together, and make progress together!
 
-杜伦大学 (Durham University)
+Specialized courses/professional fields:
 
-华威大学 (University of Warwick)
+Programming Language: C/C++/Java/Python/Go/Kotlin/Scala/Haskell
 
-卡迪夫大学 (Cardiff University)
+DSA: Algorithms/Data Structures/Design and Analysis
 
-都柏林大学 (University College Dublin)
+Computer Principles/Computer Architecture
 
-慕尼黑大学 (LMU Munich)
+Operating System
 
-赫尔辛基大学 (University of Helsinki)
+Computer Network/Security
 
-奥卢大学 (University of Oulu)
+Database Systems: MySQL/Oracle/Access/MongoDB/Redis/Neo4j
 
-拉普兰大学 (University of Lapland)
+Linux/Shell/Git
 
-### 北美洲
+Software Engineering/Software Architecture/Software Modeling/Design Pattern
 
-纽约大学 (New York University)
+Full Stack Development: Vue/SpringBoot/SpringCloud/Node.js/Express.js/Angular.js
 
-华盛顿大学 (University of Washington)
+Discrete mathematics
 
-宾夕法尼亚大学 (University of Pennsylvania)
+DA: Data Science/Data Analysis/Data Mining
 
-密歇根大学 (University of Michigan)
+AI: Machine Learning/Deep Learning/Reinforcement Learning/LLM
 
-罗彻斯特理工学院 (Rochester Institute of Technology)
+Big Data/Cloud Computing/Internet of Things
 
-佐治亚理工学院 (Georgia Institute of Technology)
+Docker/K8S
 
-匹兹堡大学 (University of Pittsburgh)
+Math: Calculus/Linear algebra/Probability Theory
 
-科尔比学院 (Colby College)
+...
 
-麦吉尔大学 (McGill University)
+---
 
-### 大洋洲
+## Contact Me (Please make remark 'GitHub', no inquiries from intermediaries)
+QQ: 496352127
 
-新南威尔士大学 (UNSW Sydney)
+WeChat: ac_coder_tutor
 
-悉尼大学 (University of Sydney)
-
-蒙纳什大学 (Monash University)
-
-维多利亚大学 (Victoria University)
-
+E-Mail: accoder_overseas@163.com, accoderoverseas@gmail.com 
+    
+(both can contact me, I will login the contacts daily and reply to you immediately)
